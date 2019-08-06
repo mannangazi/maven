@@ -1,0 +1,1525 @@
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+Error: Cannot find module 'json2xls'
+Require stack:
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/server.js:10:16)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Object.<anonymous> (/var/www/upasthiti-backend/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+ReferenceError: localhost is not defined
+    at Server.<anonymous> (/var/www/upasthiti-backend/server.js:48:14)
+    at Object.onceWrapper (events.js:284:20)
+    at Server.emit (events.js:196:13)
+    at emitListeningNT (net.js:1260:10)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+(node:4190) [DEP0106] DeprecationWarning: crypto.createCipher is deprecated.
+(node:5189) [DEP0106] DeprecationWarning: crypto.createCipher is deprecated.
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'md5'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/db/queries/util-query.js
+- /var/www/upasthiti-backend/src/scripts/db/queries/auth-query.js
+- /var/www/upasthiti-backend/src/scripts/services/auth-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/util-query.js:3:11)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+(node:23534) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+(node:23987) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Cannot find module 'googleapis'
+Require stack:
+- /var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js
+- /var/www/upasthiti-backend/src/scripts/services/user-services.js
+- /var/www/upasthiti-backend/src/scripts/router/router.js
+- /var/www/upasthiti-backend/server.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (/var/www/upasthiti-backend/src/scripts/jobs/email-jobs.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:759:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:770:10)
+    at Module.load (internal/modules/cjs/loader.js:628:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:555:12)
+    at Module.require (internal/modules/cjs/loader.js:666:19)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+TypeError: status.serverError is not a function
+    at /var/www/upasthiti-backend/src/scripts/services/report-service.js:130:35
+    at /var/www/upasthiti-backend/node_modules/html-pdf/lib/pdf.js:58:21
+    at ChildProcess.respond (/var/www/upasthiti-backend/node_modules/html-pdf/lib/pdf.js:126:14)
+    at ChildProcess.emit (events.js:196:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:257:12)
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16)
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16)
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16)
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16)
+TypeError: Cannot read property 'affectedRows' of undefined
+    at Query.<anonymous> (/var/www/upasthiti-backend/src/scripts/db/queries/user-query.js:95:31)
+    at Query.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Query._callback (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:491:16)
+    at Query.Sequence.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query.ErrorPacket (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/sequences/Query.js:90:8)
+    at Protocol._parsePacket (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:91:28)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/upasthiti-backend/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/upasthiti-backend/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:201:15)
+    at endReadableNT (_stream_readable.js:1130:12)
+    at args.<computed> (/var/www/upasthiti-backend/node_modules/event-loop-inspector/index.js:138:29)
+    at processTicksAndRejections (internal/process/task_queues.js:84:9)
